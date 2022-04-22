@@ -1,0 +1,22 @@
+{
+    "token": "OTY2NzkzNTI2ODkxNDEzNTc0.YmG6og.eui9_jeB6M8nOTtVhu50WQq6Wkc",
+    "api_token": "d99fe98d-8fc3-4ba2-8290-507230311c90",
+    "prefix": "!",
+    "cfg": {
+        "intents": [
+            "GUILDS",
+            "GUILD_BANS",
+            "GUILD_EMOJIS_AND_STICKERS",
+            "GUILD_INTEGRATIONS",
+            "GUILD_WEBHOOKS",
+            "GUILD_INVITES",
+            "GUILD_VOICE_STATES",
+            "GUILD_MESSAGES",
+            "GUILD_MESSAGE_REACTIONS",
+            "GUILD_MESSAGE_TYPING",
+            "DIRECT_MESSAGES",
+            "DIRECT_MESSAGE_REACTIONS",
+            "DIRECT_MESSAGE_TYPING"
+        ]
+    }
+}
